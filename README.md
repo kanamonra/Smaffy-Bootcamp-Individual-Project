@@ -1,4 +1,4 @@
-# Smaffy-Bootcamp-Individual-Projetc
+# Smaffy-Bootcamp-Individual-Project
 
 The Smaffy Demo version is a simple web application that provides real-time temperature sensor data visualization and analysis for a smart factory.
 
